@@ -9,7 +9,7 @@ A simple workflow which can help you to host your applications through github.
 ## Required Variable's :
 You have to fill these values in your forked repo settings which have a option called actions and secrets u have to tap on this button then you have to tap on new secret to make these vars total four mandatary vars which is compulsory to fill
 
-<p align="centre"><a
+<p align="left"><a
 
 `GIT_NAME`
 `GIT_EMAIL`
